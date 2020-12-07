@@ -1,0 +1,76 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body{ 
+	background: #9AC1D1;
+		font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";
+		color: #606060;}
+
+
+
+h1 {
+text-align: center;
+font-size: 160%;
+	padding: 20px;}
+
+
+
+.group {
+	float: left;
+	margin-left: 20px;
+	margin-top: 30px;}
+
+
+
+.info {
+	font-size:150%;
+	width: 600px;
+float: right;
+	margin-left: 20px;
+	margin-top: 30px;
+}
+	
+	
+.nofloat {
+     clear: both;
+     }
+	
+
+
+
+	
+.jump{text-align: center;
+text-decoration: none;
+}
+a:link {
+	text-decoration: none;
+	color: #606060;
+}
+	a:hover {
+  text-decoration: underline;color: #252424;
+}
+
+
+
+
+
+.profile{text-align: center; font-size: 130%;}
+
+.rm {font-size:160%; font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif"}
+.jn {font-size:160%; font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif"}
+.yg {font-size:160%; font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif"}
+.jh {font-size:160%; font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif"}
+.jm {font-size:160%; font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif"}
+.th {font-size:160%; font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif"}
+.jk {font-size:160%; font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif"}
+
+.A4{text-align:center;font-size:200%;}
+
+
+img {display: block;
+  margin-left: auto;
+  margin-right: auto;}
+
+iframe {display: block;
+  margin-left: auto;
+  margin-right: auto;}
