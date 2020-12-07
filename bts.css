@@ -4,15 +4,18 @@
 body{ 
 	background: #9AC1D1;
 		font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";
-		color: #606060;}
+		color: dimgrey;}
 
 
-
-h1 {
+.name {
 text-align: center;
-font-size: 160%;
+font-size: 200%;
 	padding: 20px;}
 
+
+
+
+.member {font-size: 180%; text-align: center;}
 
 
 .group {
@@ -26,7 +29,7 @@ font-size: 160%;
 	font-size:150%;
 	width: 600px;
 float: right;
-	margin-left: 20px;
+	margin-right: 20px;
 	margin-top: 30px;
 }
 	
@@ -64,7 +67,7 @@ a:link {
 .th {font-size:160%; font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif"}
 .jk {font-size:160%; font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif"}
 
-.A4{text-align:center;font-size:200%;}
+.A4{text-align:center;font-size:150%;}
 
 
 img {display: block;
@@ -74,3 +77,4 @@ img {display: block;
 iframe {display: block;
   margin-left: auto;
   margin-right: auto;}
+
