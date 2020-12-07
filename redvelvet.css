@@ -1,5 +1,6 @@
 @charset "UTF-8";
 /* CSS Document */
+
 body{ 
 	background: #9AC1D1;
 		font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";
@@ -13,13 +14,13 @@ font-size: 200%;
 
 
 
-.member {font-size: 180%; text-align: center;}
 
+.member {font-size: 180%; text-align: center;}
 
 
 .group {
 	float: left;
-	margin-left: 60px;
+	margin-left: 20px;
 	margin-top: 30px;}
 
 
@@ -28,7 +29,7 @@ font-size: 200%;
 	font-size:150%;
 	width: 600px;
 float: right;
-	margin-right: 40px;
+	margin-right: 20px;
 	margin-top: 30px;
 }
 	
@@ -56,7 +57,7 @@ a:link {
 
 
 
-.profile{text-align: center; font-size: 130;}
+.profile{text-align: center; font-size: 130%;}
 
 .irene {font-size:160%; font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif"}
 .wendy{font-size:160%; font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif"}
